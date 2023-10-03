@@ -26,13 +26,3 @@ Cálculo de algumas métricas quantitativas, incluindo:
 - Impressão dos resultados da análise quantitativa no console.
 - Resultados da análise quantitativa
 
-
-A análise quantitativa de dados financeiros é uma ferramenta útil para entender tendências históricas e padrões de mercado. No entanto, ela não deve ser usada como uma garantia de resultados futuros. Investir em mercados financeiros envolve riscos significativos e pode levar a perdas financeiras. Sempre procure orientação profissional antes de tomar decisões de investimento.
-
-Contribuição
-
-Se você quiser contribuir para melhorar este código ou tiver sugestões de melhorias, sinta-se à vontade para fazer um fork deste repositório e enviar um pull request com suas alterações.
-
-Autor
-
-Este código foi desenvolvido por Reinaldo e faz parte de um projeto pessoal ou educacional. O autor não assume qualquer responsabilidade por decisões de investimento tomadas com base nos resultados da análise quantitativa apresentada aqui.
